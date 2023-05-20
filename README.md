@@ -1,4 +1,8 @@
-## tours project using api
+# [Live Demo](https://tours-virid.vercel.app/)
+# Tours Projects
 
-- Live view: https://toursapi.netlify.app
-- ![image of site](https://i.ibb.co/2kCF3zG/tours-APT.png)
+## This website is specifically designed and developed for the purpose of practice and skill enhancement.
+
+## Technologies use:
+- REACT JS
+- CSS
